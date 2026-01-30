@@ -230,3 +230,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+'''
+Recall@20: 0.1272
+NDCG@20:   0.0938
+Recall@40: 0.1617
+NDCG@40:   0.1021
+'''
