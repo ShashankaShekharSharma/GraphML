@@ -1,8 +1,4 @@
-# =========================================================
-# Yelp — Two-Tower + LightGCN
-# Cold-user safe, NO item cap
-# Full Ranking: Recall@20 / Recall@40 / NDCG@20 / NDCG@40
-# =========================================================
+
 
 import os
 import json
